@@ -17,14 +17,17 @@ button{
     background-color: black;
     color: white;
     padding: 2px 30px;
+    font-size: 17px;
 }
 
 table{
-    width: 100vw;
+    width: 98vw;
     border-collapse: collapse;
+    margin-left: 15px;
 }
 
-table td{
+ tr,td{
+    padding: 8px 0;
     border:1px solid black;
     text-align: center;
 }
